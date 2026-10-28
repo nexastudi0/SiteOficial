@@ -78,3 +78,7 @@ assets/
 ```
 
 © 2026 Nexa Studio & Publicidade — identidade visual fornecida pelo usuário.
+
+## Atualização visual — carrossel
+
+Os separadores da faixa dourada foram substituídos por um emblema geométrico da Nexa em SVG, preto sobre dourado, sem emojis. O ícone está em `assets/img/nexa-carousel-emblem.svg` e pode ser alterado sem modificar o conteúdo da página.
